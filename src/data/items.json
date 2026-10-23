@@ -1,0 +1,374 @@
+[
+  {
+    "id": "microscope",
+    "name": "Compound light microscope",
+    "kind": "Instrument",
+    "zone": "instruments",
+    "model": "microscope",
+    "summary": "Magnifies small specimens such as cells and microorganisms using a set of lenses and a built-in light source.",
+    "uses": [
+      "Viewing prepared slides of cells and tissues",
+      "Examining microorganisms in biology and microbiology labs",
+      "Teaching and routine inspection work"
+    ],
+    "tips": [
+      "Start with the lowest-power objective, then move up",
+      "Carry it with one hand under the base and one on the arm",
+      "Clean lenses only with lens paper"
+    ]
+  },
+  {
+    "id": "spectrophotometer",
+    "name": "UV-Vis spectrophotometer",
+    "kind": "Instrument",
+    "zone": "instruments",
+    "model": "spectrophotometer",
+    "summary": "Measures how much light a sample absorbs at a chosen wavelength, which can be used to work out its concentration.",
+    "uses": [
+      "Finding the concentration of coloured solutions",
+      "Following how fast a reaction proceeds",
+      "Quality-control testing"
+    ],
+    "tips": [
+      "Zero the instrument with a blank sample first",
+      "Handle cuvettes by their frosted sides",
+      "Wipe off drips before inserting a cuvette"
+    ]
+  },
+  {
+    "id": "centrifuge",
+    "name": "Benchtop centrifuge",
+    "kind": "Instrument",
+    "zone": "instruments",
+    "model": "centrifuge",
+    "summary": "Spins samples at high speed so that heavier components separate from lighter ones.",
+    "uses": [
+      "Separating blood into its components",
+      "Collecting cells or precipitates as a pellet",
+      "Clearing samples before analysis"
+    ],
+    "tips": [
+      "Always balance tubes opposite each other",
+      "Keep the lid closed until the rotor has stopped",
+      "Never exceed the rated speed of the tubes"
+    ]
+  },
+  {
+    "id": "balance",
+    "name": "Analytical balance",
+    "kind": "Instrument",
+    "zone": "instruments",
+    "model": "balance",
+    "summary": "Weighs small masses very precisely inside a glass draft shield that blocks air currents.",
+    "uses": [
+      "Weighing reagents for standard solutions",
+      "Preparing samples for analysis",
+      "Checking the mass of a product"
+    ],
+    "tips": [
+      "Tare the balance with the empty container on the pan",
+      "Close the draft-shield doors before reading",
+      "Keep it level and away from vibration"
+    ]
+  },
+  {
+    "id": "phMeter",
+    "name": "pH meter",
+    "kind": "Instrument",
+    "zone": "instruments",
+    "model": "phMeter",
+    "summary": "Measures how acidic or alkaline a solution is using a glass electrode.",
+    "uses": [
+      "Checking water and soil samples",
+      "Adjusting buffer solutions",
+      "Food and beverage testing"
+    ],
+    "tips": [
+      "Calibrate with standard buffer solutions before use",
+      "Rinse the electrode between samples",
+      "Store the electrode moist, never dry"
+    ]
+  },
+  {
+    "id": "micropipette",
+    "name": "Micropipette",
+    "kind": "Equipment",
+    "zone": "instruments",
+    "model": "micropipette",
+    "summary": "A hand-held pipette that measures and dispenses very small, adjustable volumes of liquid using disposable tips.",
+    "uses": [
+      "Molecular biology and PCR set-up",
+      "Preparing small-volume dilutions",
+      "Loading samples into plates and gels"
+    ],
+    "tips": [
+      "Use a fresh tip for every sample",
+      "Press the plunger slowly and smoothly",
+      "Never lay it down with liquid in the tip"
+    ]
+  },
+  {
+    "id": "hotplate",
+    "name": "Magnetic hotplate stirrer",
+    "kind": "Equipment",
+    "zone": "bench",
+    "model": "hotplate",
+    "summary": "Heats and stirs liquids at the same time by spinning a magnetic stir bar inside the vessel.",
+    "uses": [
+      "Dissolving solids",
+      "Keeping mixtures uniform during titrations",
+      "Gentle heating of solutions"
+    ],
+    "tips": [
+      "The top plate can stay hot after it is switched off",
+      "Never heat flammable solvents on an open hotplate",
+      "Add the stir bar before switching the stirrer on"
+    ]
+  },
+  {
+    "id": "bunsen",
+    "name": "Bunsen burner",
+    "kind": "Equipment",
+    "zone": "bench",
+    "model": "bunsen",
+    "summary": "A gas burner that produces a single open flame for heating, sterilising and combustion.",
+    "uses": [
+      "Heating test tubes and crucibles",
+      "Sterilising inoculation loops",
+      "Flame tests"
+    ],
+    "tips": [
+      "Tie back long hair and keep the area clear",
+      "Light it with the air hole closed, then open it for a blue flame",
+      "Never leave a lit burner unattended"
+    ]
+  },
+  {
+    "id": "fumeHood",
+    "name": "Fume hood",
+    "kind": "Equipment",
+    "zone": "safety",
+    "model": "fumeHood",
+    "summary": "A ventilated enclosure that draws fumes away from the user while working with volatile or hazardous chemicals.",
+    "uses": [
+      "Handling volatile solvents and concentrated acids",
+      "Running reactions that release gases",
+      "Protecting the user from breathing in fumes"
+    ],
+    "tips": [
+      "Work at least 15 cm inside the sash",
+      "Keep the sash as low as practical",
+      "Don't use the hood for storing chemicals"
+    ]
+  },
+  {
+    "id": "beaker",
+    "name": "Beaker",
+    "kind": "Glassware",
+    "zone": "glassware",
+    "model": "beaker",
+    "summary": "A cylindrical container with a pouring spout, used for mixing, heating and holding liquids.",
+    "uses": ["Mixing and stirring solutions", "Heating liquids", "Holding samples"],
+    "tips": [
+      "Its graduations are approximate, so measure volumes with a cylinder or pipette",
+      "Use borosilicate glass when heating",
+      "Check for chips and cracks before use"
+    ]
+  },
+  {
+    "id": "erlenmeyer",
+    "name": "Conical (Erlenmeyer) flask",
+    "kind": "Glassware",
+    "zone": "glassware",
+    "model": "erlenmeyer",
+    "summary": "A flask with a flat base, conical body and narrow neck, which reduces splashing when the contents are swirled.",
+    "uses": ["Titrations", "Swirling and mixing solutions", "Growing microbial cultures"],
+    "tips": [
+      "Swirl gently from the wrist rather than shaking",
+      "The narrow neck can be stoppered or covered with foil",
+      "Use a clamp when heating"
+    ]
+  },
+  {
+    "id": "roundFlask",
+    "name": "Round-bottom flask",
+    "kind": "Glassware",
+    "zone": "glassware",
+    "model": "roundFlask",
+    "summary": "A spherical flask that heats evenly, used with heating mantles and distillation apparatus.",
+    "uses": ["Distillation", "Heating under reflux", "Rotary evaporation"],
+    "tips": [
+      "It cannot stand on its own, so support it on a cork ring or clamp",
+      "Never fill it more than about half full when heating",
+      "Inspect for star cracks before applying vacuum"
+    ]
+  },
+  {
+    "id": "volumetricFlask",
+    "name": "Volumetric flask",
+    "kind": "Glassware",
+    "zone": "glassware",
+    "model": "volumetricFlask",
+    "summary": "A flask calibrated to hold one exact volume at a set temperature, shown by a line on its neck.",
+    "uses": ["Making standard solutions", "Accurate dilutions", "Preparing calibration standards"],
+    "tips": [
+      "Fill until the bottom of the meniscus sits on the line",
+      "Read the line at eye level",
+      "Don't heat it, as heat changes the calibrated volume"
+    ]
+  },
+  {
+    "id": "gradCylinder",
+    "name": "Graduated cylinder",
+    "kind": "Glassware",
+    "zone": "glassware",
+    "model": "gradCylinder",
+    "summary": "A tall, narrow cylinder with markings for measuring liquid volumes more accurately than a beaker.",
+    "uses": ["Measuring liquid volumes", "Transferring set amounts of solution", "Preparing mixtures"],
+    "tips": [
+      "Read the bottom of the meniscus at eye level",
+      "Choose the smallest cylinder that holds your volume",
+      "Stand it on a flat surface before reading"
+    ]
+  },
+  {
+    "id": "testTubes",
+    "name": "Test tubes and rack",
+    "kind": "Glassware",
+    "zone": "glassware",
+    "model": "testTubeRack",
+    "summary": "Small glass tubes for holding, mixing and heating small amounts of chemicals, kept upright in a rack.",
+    "uses": ["Small-scale reactions", "Qualitative chemical tests", "Holding and comparing samples"],
+    "tips": [
+      "Point the open end away from people when heating",
+      "Fill no more than about a third when heating",
+      "Use a test-tube holder for hot tubes"
+    ]
+  },
+  {
+    "id": "funnel",
+    "name": "Filter funnel",
+    "kind": "Glassware",
+    "zone": "glassware",
+    "model": "funnel",
+    "summary": "A cone-shaped funnel used with filter paper to separate solids from liquids, or to pour into narrow necks.",
+    "uses": ["Gravity filtration", "Transferring liquids into narrow containers", "Collecting precipitates"],
+    "tips": [
+      "Fold the filter paper into a cone that fits snugly",
+      "Keep the liquid level below the top of the paper",
+      "Rest the stem against the inside of the receiving flask"
+    ]
+  },
+  {
+    "id": "petriDish",
+    "name": "Petri dishes",
+    "kind": "Consumable",
+    "zone": "glassware",
+    "model": "petriDish",
+    "summary": "Shallow lidded dishes used to grow microorganisms on agar and to hold small samples.",
+    "uses": ["Culturing bacteria and fungi", "Growing cell cultures", "Holding small samples for observation"],
+    "tips": [
+      "Label the base, not the lid",
+      "Incubate dishes upside down to stop condensation dripping",
+      "Seal and dispose of cultures safely"
+    ]
+  },
+  {
+    "id": "buretteStand",
+    "name": "Burette on retort stand",
+    "kind": "Glassware",
+    "zone": "glassware",
+    "model": "buretteStand",
+    "summary": "A long graduated tube with a tap at the bottom, used to add precise volumes of liquid during titrations.",
+    "uses": ["Acid-base titrations", "Redox titrations", "Dispensing precise volumes"],
+    "tips": [
+      "Rinse with the solution you are about to use",
+      "Remove the air bubble below the tap before starting",
+      "Read the meniscus at eye level"
+    ]
+  },
+  {
+    "id": "extinguisher",
+    "name": "Fire extinguisher",
+    "kind": "Safety",
+    "zone": "safety",
+    "model": "extinguisher",
+    "summary": "A portable device for putting out small fires. Laboratories usually keep types that are suitable for electrical and chemical fires, such as CO₂ or dry powder.",
+    "uses": ["Putting out small fires before they spread", "Covering an escape route"],
+    "tips": [
+      "Remember PASS: Pull, Aim, Squeeze, Sweep",
+      "Only tackle small fires, with an exit behind you",
+      "Check the pressure gauge and service tag"
+    ]
+  },
+  {
+    "id": "eyewash",
+    "name": "Eyewash station",
+    "kind": "Safety",
+    "zone": "safety",
+    "model": "eyewash",
+    "summary": "Delivers a gentle stream of water to flush chemicals or particles out of the eyes.",
+    "uses": ["First response to chemical splashes in the eyes", "Flushing out dust or debris"],
+    "tips": [
+      "Flush for at least 15 minutes, holding the eyelids open",
+      "Keep the path to it clear at all times",
+      "Test it regularly so the water stays clean"
+    ]
+  },
+  {
+    "id": "firstAid",
+    "name": "First aid kit",
+    "kind": "Safety",
+    "zone": "safety",
+    "model": "firstAid",
+    "summary": "A stocked kit for treating minor injuries such as cuts and burns until further help arrives.",
+    "uses": ["Treating minor cuts and burns", "Covering wounds", "Supporting first responders"],
+    "tips": [
+      "Know where it is before you start work",
+      "Report every injury, however small",
+      "Restock it after use"
+    ]
+  },
+  {
+    "id": "goggles",
+    "name": "Safety goggles",
+    "kind": "Safety",
+    "zone": "safety",
+    "model": "goggles",
+    "summary": "Close-fitting eye protection that shields against chemical splashes, dust and flying fragments.",
+    "uses": ["Eye protection during any chemical work", "Protection when handling glassware under pressure or heat"],
+    "tips": [
+      "Wear them whenever chemicals are in use, not just when you are pouring",
+      "Choose goggles rated for chemical splashes",
+      "Clean and store them away from dust"
+    ]
+  },
+  {
+    "id": "labCoat",
+    "name": "Lab coat",
+    "kind": "Safety",
+    "zone": "safety",
+    "model": "labCoat",
+    "summary": "A long-sleeved protective coat that keeps chemical splashes and spills off your skin and clothes.",
+    "uses": ["Everyday protection in the laboratory", "Keeping contamination out of samples"],
+    "tips": [
+      "Keep it buttoned with the sleeves down",
+      "Take it off before leaving the lab",
+      "Remove it straight away if it is contaminated"
+    ]
+  },
+  {
+    "id": "gloves",
+    "name": "Nitrile gloves",
+    "kind": "Consumable",
+    "zone": "safety",
+    "model": "gloves",
+    "summary": "Disposable gloves that protect the hands from many chemicals and biological samples.",
+    "uses": ["Handling chemicals and samples", "Preventing contamination", "General lab work"],
+    "tips": [
+      "Check the chemical's safety data sheet for the right glove type",
+      "Change gloves straight away if they tear or are splashed",
+      "Never touch door handles or phones with gloved hands"
+    ]
+  }
+]

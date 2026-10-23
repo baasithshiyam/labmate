@@ -1,0 +1,89 @@
+[
+  {
+    "id": "rainbow",
+    "title": "Rainbow indicator",
+    "goal": "Watch universal indicator move through the pH colours.",
+    "steps": [
+      { "reagent": "water", "amount": "pour", "vessel": "beakerA" },
+      { "reagent": "universal", "amount": "drop", "vessel": "beakerA" },
+      { "reagent": "hcl", "amount": "drop", "vessel": "beakerA" },
+      { "reagent": "naoh", "amount": "splash", "vessel": "beakerA" }
+    ],
+    "explanation": "Universal indicator is a mixture of dyes that each change colour at a different pH. A drop of hydrochloric acid makes the water strongly acidic (red). Adding more sodium hydroxide than there is acid neutralises it and then makes the solution strongly alkaline (purple)."
+  },
+  {
+    "id": "pink",
+    "title": "Disappearing pink",
+    "goal": "Turn a clear liquid pink, then make the pink vanish.",
+    "steps": [
+      { "reagent": "water", "amount": "pour", "vessel": "flask" },
+      { "reagent": "phenolphthalein", "amount": "drop", "vessel": "flask" },
+      { "reagent": "naoh", "amount": "drop", "vessel": "flask" },
+      { "reagent": "hcl", "amount": "splash", "vessel": "flask" }
+    ],
+    "explanation": "Phenolphthalein is colourless below about pH 8.2 and pink above it. One drop of sodium hydroxide makes the water alkaline, so it turns pink. Excess hydrochloric acid neutralises the alkali and the pink disappears. This colour change marks the end point in many titrations."
+  },
+  {
+    "id": "fizz",
+    "title": "Fizzing acid",
+    "goal": "Make carbon dioxide gas from vinegar and baking soda.",
+    "steps": [
+      { "reagent": "nahco3", "amount": "pour", "vessel": "beakerB" },
+      { "reagent": "vinegar", "amount": "pour", "vessel": "beakerB" }
+    ],
+    "explanation": "Acetic acid reacts with sodium hydrogen carbonate to make sodium acetate, water and carbon dioxide. The carbon dioxide escapes as bubbles: CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂."
+  },
+  {
+    "id": "blue-ppt",
+    "title": "Blue precipitate",
+    "goal": "Use sodium hydroxide to reveal copper ions.",
+    "steps": [
+      { "reagent": "cuso4", "amount": "splash", "vessel": "tube1" },
+      { "reagent": "naoh", "amount": "splash", "vessel": "tube1" }
+    ],
+    "explanation": "Copper(II) ions react with hydroxide ions to form copper(II) hydroxide, which does not dissolve and appears as a pale blue solid: Cu²⁺ + 2OH⁻ → Cu(OH)₂. Chemists use this colour to identify copper ions."
+  },
+  {
+    "id": "blood-red",
+    "title": "Blood-red test",
+    "goal": "Detect iron(III) ions with thiocyanate.",
+    "steps": [
+      { "reagent": "water", "amount": "splash", "vessel": "tube2" },
+      { "reagent": "fecl3", "amount": "drop", "vessel": "tube2" },
+      { "reagent": "kscn", "amount": "drop", "vessel": "tube2" }
+    ],
+    "explanation": "Iron(III) ions combine with thiocyanate ions to form a complex ion, [Fe(SCN)]²⁺, which is an intense blood-red colour. Even tiny amounts of iron(III) show up clearly."
+  },
+  {
+    "id": "white-ppt",
+    "title": "Chloride test",
+    "goal": "Find chloride ions using silver nitrate.",
+    "steps": [
+      { "reagent": "agno3", "amount": "splash", "vessel": "tube3" },
+      { "reagent": "nacl", "amount": "drop", "vessel": "tube3" }
+    ],
+    "explanation": "Silver ions and chloride ions form silver chloride, which does not dissolve, so a white solid appears: Ag⁺ + Cl⁻ → AgCl. Bromide gives a cream solid and iodide a yellow one, so this test tells the halides apart."
+  },
+  {
+    "id": "starch",
+    "title": "Starch test",
+    "goal": "Show starch is present using iodine.",
+    "steps": [
+      { "reagent": "starch", "amount": "splash", "vessel": "beakerB" },
+      { "reagent": "iodine", "amount": "drop", "vessel": "beakerB" }
+    ],
+    "explanation": "Starch contains long coiled chains called amylose. Iodine slots inside the coils and forms a complex that absorbs light strongly, so the brown iodine turns blue-black. Food scientists use this to test for starch."
+  },
+  {
+    "id": "toothpaste",
+    "title": "Elephant toothpaste",
+    "goal": "Make foam erupt from a flask.",
+    "steps": [
+      { "reagent": "h2o2", "amount": "pour", "vessel": "flask" },
+      { "reagent": "detergent", "amount": "drop", "vessel": "flask" },
+      { "reagent": "ki", "amount": "splash", "vessel": "flask" }
+    ],
+    "explanation": "Iodide ions are a catalyst: they speed up the breakdown of hydrogen peroxide into water and oxygen, 2H₂O₂ → 2H₂O + O₂. The detergent traps the oxygen in millions of bubbles, so foam shoots out of the flask.",
+    "note": "Real demonstrations use concentrated hydrogen peroxide, which burns skin. Only trained staff should perform them, with full protective equipment."
+  }
+]
